@@ -1,0 +1,4 @@
+ w:=a*b+c/d-e-b/f+g*h-a*b+c+d/a+b+c+d/c+b*a-m
+
+
+ w:=a*b+c/d-e/f+g*h-a*b+c+d/a+b+c+d/c+b*a-m
